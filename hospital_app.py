@@ -251,7 +251,7 @@ if submitted:
     info       = DEPT_INFO[dept_name]
 
 # NEW
-    st.markdown("---")
+st.markdown("---")
         st.markdown("""
         <div style="font-size:22px;font-weight:700;color:#111827;margin-bottom:4px;">AI Recommendation</div>
         <div style="font-size:14px;color:#6b7280;margin-bottom:1.5rem;">Based on the information you provided</div>
