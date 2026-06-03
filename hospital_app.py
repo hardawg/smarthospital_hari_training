@@ -132,13 +132,9 @@ with st.form("triage_form"):
         nausea_vomiting  = st.checkbox("🤮  Nausea / Vomiting")
         dizziness        = st.checkbox("😵  Dizziness")
         skin_rash        = st.checkbox("🔴  Skin Rash")
-    with c4:
-        
 
-    # c5, _, _, _ = st.columns(4)
-    # with c5:
         
-    # st.markdown("<br>", unsafe_allow_html=True)
+    """unsafe_allow_html=True)
 
 # Section 2 — Duration & Complaint
     st.markdown("""
